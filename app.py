@@ -161,7 +161,7 @@ with tab2:
         future = model.make_future_dataframe(periods=forecast_days)
         forecast = model.predict(future)
         forecast_df = forecast[['ds', 'yhat', 'yhat_lower', 'yhat_upper']].rename(columns={'ds': 'Date', 'yhat': 'Forecast'})
-        return forecast_df, prophet_df['y'][-forecast_days:], forecast['Forecast'][-forecast_days:]
+        return forecast_df, prophet_df['y'][-forecast_days:], forecast['yhat'][-forecast_days:]
 
     try:
         if model_choice == "ARIMA (Auto)":
