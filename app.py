@@ -150,4 +150,4 @@ else:
 
 # Footer
 st.markdown("---")
-st.markdown("Built with ❤️ using Streamlit | [GitHub](https://github.com/) | [Contact](mailto:you@example.com)")
+st.markdown("Built with ❤️ using Streamlit | [GitHub](https://github.com/AdrshChaudhary/mpox) | [Contact](mailto:im.aadrsh@gmail.com)")
