@@ -5,3 +5,6 @@ prophet
 statsmodels
 matplotlib
 wordcloud
+scikit-learn
+tensorflow
+numpy
