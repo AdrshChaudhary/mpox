@@ -87,13 +87,13 @@ The app utilizes **ResNet-50**, a deep CNN known for its skip connections and ab
 ### 📈 Global Mpox Forecasting Dashboard
 
 #### 🌍 Country-wise Case Selection
-![Country Select](https://github.com/AdrshChaudhary/mpox/blob/main/assets/country.png)
+![Country Select](https://github.com/AdrshChaudhary/mpox/blob/main/assets/country.PNG)
 
 #### 📊 ARIMA Forecasting Graph
-![ARIMA Forecast](https://github.com/AdrshChaudhary/mpox/blob/main/assets/arima.png)
+![ARIMA Forecast](https://github.com/AdrshChaudhary/mpox/blob/main/assets/arima.PNG)
 
 #### 📉 Prophet Model Forecast
-![Prophet Forecast](https://github.com/AdrshChaudhary/mpox/blob/main/assets/prophet.png)
+![Prophet Forecast](https://github.com/AdrshChaudhary/mpox/blob/main/assets/prophet.PNG)
 
 ---
 
